@@ -1,1 +1,1 @@
-TinDog Starting Files
+DOGIFY RESPONSIVE WEBSITE Starting Files
